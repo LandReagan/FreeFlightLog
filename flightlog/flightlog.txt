@@ -1,0 +1,12 @@
+[PILOT]
+NAME:
+
+[PROFILES]
+1:
+
+[TOTALS]
+
+[FLIGHTS]
+
+[KEY]
+3711
